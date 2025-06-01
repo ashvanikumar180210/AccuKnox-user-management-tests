@@ -1,0 +1,6 @@
+utilities/DriverFactory.class
+Pages/DeleteUserPage.class
+Pages/EditUserPage.class
+Pages/LoginPage.class
+Pages/SearchUserPage.class
+Pages/AddNewUserPage.class
